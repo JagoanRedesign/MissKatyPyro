@@ -51,7 +51,7 @@ async def inline_menu(_, inline_query: InlineQuery):
         msg = f"""
 **[MissKaty✨](https://github.com/yasirarism):**
 **MainBot:** `{bot_state}`
-**UserBot:** `{ubot_state}`
+**Userrobot:** `{ubot_state}`
 **Python:** `{pyver.split()[0]}`
 **Pyrogram:** `{pyrover}`
 **MongoDB:** `{mongover}`
