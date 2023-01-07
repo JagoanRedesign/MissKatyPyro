@@ -64,7 +64,7 @@ sudo docker stop id
  - Thanks To Allah Swt.
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram).
  - Thanks To [The Hamker Cat](https://github.com/TheHamkerCat) For WilliamButcher Code.
- - Thanks To [Team Yukki](https://github.com/TeamYukki) For AFK Bot Code.
+ - Thanks To [Team y-uki](https://github.com/Teamy-uki) For AFK Bot Code.
  - Thanks To [Wrench](https://github.com/EverythingSuckz) For Some Code.
  - And All People Who Help Me In My Life...
  If your code used in this repo and want to give credit please open issue..
