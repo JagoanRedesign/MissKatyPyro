@@ -62,7 +62,7 @@ async def start_bot():
         for i in SUDO:
             await app.send_message(
                 i,
-                f"USERBOT AND BOT STARTED with Pyrogram v{__version__}..\nUserBot: {UBOT_NAME}\nBot: {BOT_NAME}\n\nwith Pyrogram v{__version__} (Layer {layer}) started on @{BOT_USERNAME}.\n\n<code>{bot_modules}</code>",
+                f"BOT STARTED with Pyrogram v{__version__}..\nName Bot: {UBOT_NAME}\nBot: {BOT_NAME}\n\nwith Pyrogram v{__version__} (Layer {layer}) started on @{BOT_USERNAME}.\n\n<code>{bot_modules}</code>",
             )
     except Exception as e:
         LOGGER.error(str(e))
