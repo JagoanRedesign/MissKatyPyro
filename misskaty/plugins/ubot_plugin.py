@@ -5,7 +5,7 @@
  * @projectName   MissKatyPyro
  * Copyright @YasirPedia All rights reserved
 """
-# Code in this plugin to learn basic userbot in pyrogram
+# Code in this plugin to learn basic userRobot in pyrogram
 import os
 from pyrogram import enums, filters
 from pyrogram.types import (
