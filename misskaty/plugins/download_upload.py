@@ -25,7 +25,7 @@ __HELP__ = """
 /tiktokdl [link] - Download TikTok Video
 /fbdl [link] - Download Facebook Video
 /anon [link] - Upload files to Anonfiles
-/ytdown [link] - Download YouTube dengan YT-DLP
+/ytdown [link] - Download YouTube dengan link
 """
 
 
