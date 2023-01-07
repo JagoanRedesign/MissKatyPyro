@@ -13,7 +13,7 @@ You can check demo this repo in this bot [MissKatyPyro](https://t.me/MissKatyRoB
 * AFK Feature, improved from Yuuki Repo.
 * Bypass URL, some code from PyBypass repo.
 * Improved IMDB Search with English and Indonesian Language by Me.
-* Download some video from web using YT-DLP (UnStable)
+* Download some video from web using YDKLP (UnStable)
 * Extract subtitles & audio from URL.
 * Some website scraper (like melongmovie, lk21 and terbit21).
 * Mediainfo plugin.
