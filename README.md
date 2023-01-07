@@ -31,7 +31,7 @@ You can check demo this repo in this bot [MissKatyPyro](https://t.me/MissKatyRoB
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `USER_SESSION` : Session string for Userbot.
+* `USER_SESSION` : Session string for userRobot.
 ### Optional Variables
 Check by yourself for optional vars.
 
