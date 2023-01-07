@@ -25,7 +25,7 @@ app = Client(
     sleep_threshold=5,
 )
 
-# Pyrogram UserBot Client
+# Pyrogram userRobot Client
 user = Client(
     "YasirUBot",
     session_string=USER_SESSION,
